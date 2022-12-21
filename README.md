@@ -1,3 +1,7 @@
+## quickstart
+
+## main.js
+```
 import Phaser from './libs/phaser.min.js'
 import HelloWorldScene from './HelloWorldScene'
 
@@ -20,3 +24,6 @@ const config = {
 
 new Phaser.Game(config)
 
+
+
+```
